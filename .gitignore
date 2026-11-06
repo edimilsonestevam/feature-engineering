@@ -1,0 +1,106 @@
+
+# ==========================================
+# PYTHON
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ==========================================
+# VIRTUAL ENVIRONMENTS
+# ==========================================
+venv/
+.venv/
+env/
+ENV/
+.python-version
+
+# ==========================================
+# JUPYTER NOTEBOOK
+# ==========================================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+jupyter_server_config.py
+.jupyter/
+
+# ==========================================
+# NOTEBOOK TEMPORARY FILES
+# ==========================================
+*.ipynb~
+*.nbtmp
+.ipynb_checkpoints/
+
+# ==========================================
+# IDEs AND EDITORS
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ==========================================
+# PYTHON PACKAGES
+# ==========================================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+htmlcov/
+
+# ==========================================
+# ENVIRONMENT VARIABLES / SECRETS
+# ==========================================
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ==========================================
+# LOGS
+# ==========================================
+*.log
+logs/
+
+# ==========================================
+# DATA SCIENCE / MACHINE LEARNING
+# ==========================================
+__pycache__/
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.model
+*.pt
+*.pth
+*.onnx
+
+# ==========================================
+# GENERATED DATA
+# ==========================================
+data/raw/
+data/processed/
+output/
+outputs/
+results/
+
+# ==========================================
+# OPERATING SYSTEM
+# ==========================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================================
+# BUILD / DISTRIBUTION
+# ==========================================
+build/
+dist/
+*.egg-info/
+wheels/
+pip-wheel-metadata/
