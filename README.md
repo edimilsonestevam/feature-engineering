@@ -1,6 +1,6 @@
 # Feature Engineering
 
-O dataset disponibilizado para a sua equipe possui informações apenas de solicitações de cartão de crédito que foram aprovadas, ou seja, todos os registros são de clientes da empresa. Os clientes são marcados como maus pagadores ("bad" - última coluna "ROTULO_ALVO_MAU=1") se houver **atraso de maior de 60 dias** no pagamento da fatura durante o primeiro ano após a contratação.
+O dataset disponibilizado para a sua equipe possui informações apenas de solicitações de cartão de crédito que foram aprovadas, ou seja, todos os registros são de clientes da empresa. Os clientes são marcados como maus pagadores ("bad" - última coluna "**ROTULO_ALVO_MAU=1**") se houver **atraso de maior de 60 dias** no pagamento da fatura durante o primeiro ano após a contratação.
 
 A melhoria do dataset deverá ser feita com base nas técnicas fundamentais de Feature Engineering como **imputação de dados**, **normalização**, **codificação de variáveis categóricas**, **seleção de características** etc.
 
