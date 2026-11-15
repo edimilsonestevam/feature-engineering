@@ -13,7 +13,7 @@ A avaliação das melhorias do dataset deverá ser feita através da análise de
 
 **Entregáveis**
 
-Ao término do projeto a eequipe deverá fazer as seguintes entregas:
+Ao término do projeto a equipe deverá fazer as seguintes entregas:
 
 Arquivo PowerPoint com análises e resultados:
 
